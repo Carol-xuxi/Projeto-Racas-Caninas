@@ -23,6 +23,12 @@ h1 {
     color: #222831; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
+    text-shadow: 2px 2px #8d9193 ;
+}
+
+/*Estiliza o icon */
+h1 span{
+    font-size: 1.5rem;
 }
 
 /* Estiliza as seções da página */
